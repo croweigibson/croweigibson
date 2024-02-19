@@ -1,9 +1,10 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=croweigibson)
 
 # Hi, I'm Gibson! 👋
 
 
 ## 🚀 About Me
-I'm an aspiring data scientist, currently enrolled at the ALX data science bootcamp! I'm also a technical writer so don't forget to check out my blog!!
+I'm an aspiring data scientist, currently enrolled at the ALX data science boot camp! I'm also a technical writer, so don't forget to check out my blog!!
 
 
 ## 🔗 Links
@@ -18,23 +19,7 @@ I'm an aspiring data scientist, currently enrolled at the ALX data science bootc
 4. Power BI
 5. Tableau
 
-![Stats](https://github-readme-stats.vercel.app/api?username=crowei-gibson)
 
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
-
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+## Projects
+[Water Access](https://github.com/croweigibson/Maji_Ndogo)
 
