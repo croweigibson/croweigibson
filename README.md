@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=croweigibson)
+
 
 # Hi, I'm Gibson! 👋
 
@@ -21,6 +21,6 @@ I'm an aspiring data scientist, currently enrolled at the ALX data science boot 
 
 
 ## Projects
-[Water Access](https://github.com/croweigibson/Maji_Ndogo)
-[Investigating Netflix Movies](https://github.com/croweigibson/Investigating-Netflix-Movies)
+- [Water Access](https://github.com/croweigibson/Maji_Ndogo)
+- [Investigating Netflix Movies](https://github.com/croweigibson/Investigating-Netflix-Movies)
 
