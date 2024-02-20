@@ -1,4 +1,6 @@
-
+```sh
+Loading...
+```
 
 # Hi, I'm Gibson! 👋
 
