@@ -6,7 +6,7 @@ Loading...
 
 
 ## 🚀 About Me
-I'm an aspiring data scientist, currently enrolled at the ALX data science boot camp! I'm also a technical writer, so don't forget to check out my blog!!
+I'm an aspiring data scientist and a graduate of the ALX data science boot camp! I'm also a technical writer, so don't forget to check out my blog!!
 
 
 ## 🔗 Links
@@ -22,7 +22,9 @@ I'm an aspiring data scientist, currently enrolled at the ALX data science boot 
 5. Tableau
 
 
+
 ## Projects
 - [Water Access](https://github.com/croweigibson/Maji_Ndogo)
 - [Investigating Netflix Movies](https://github.com/croweigibson/Investigating-Netflix-Movies)
+- [Meryl Sola HR Analysis](https://github.com/croweigibson/Meryl-Sola-HR-Analysis)
 
