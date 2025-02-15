@@ -6,8 +6,7 @@ Loading...
 
 
 ## 🚀 About Me
-I'm an aspiring data scientist and a graduate of the ALX data science boot camp! I'm also a technical writer, so don't forget to check out my blog!!
-
+Data analyst with expertise in SQL, Python, and BI tools, specializing in turning raw data into actionable insights. Currently an intern at HNG, gaining hands-on experience in data analysis and business intelligence. Graduate of the ALX Data Science Boot Camp with a strong foundation in data visualization and storytelling.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/croweigibson/)
