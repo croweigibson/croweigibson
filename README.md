@@ -23,6 +23,8 @@ Data analyst with expertise in SQL, Python, and BI tools, specializing in turnin
 
 
 ## Projects
+- [Exploratory-Data-Analysis](https://github.com/croweigibson/Exploratory-Data-Analysis)
+- [SEO Title Optimisation](https://github.com/croweigibson/Optimising-E-Commerce-Product-Titles-for-SEO)
 - [Water Access](https://github.com/croweigibson/Maji_Ndogo)
 - [Investigating Netflix Movies](https://github.com/croweigibson/Investigating-Netflix-Movies)
 - [Meryl Sola HR Analysis](https://github.com/croweigibson/Meryl-Sola-HR-Analysis)
