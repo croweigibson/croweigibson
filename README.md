@@ -28,4 +28,5 @@ Data analyst with expertise in SQL, Python, and BI tools, specializing in turnin
 - [Water Access](https://github.com/croweigibson/Maji_Ndogo)
 - [Investigating Netflix Movies](https://github.com/croweigibson/Investigating-Netflix-Movies)
 - [Meryl Sola HR Analysis](https://github.com/croweigibson/Meryl-Sola-HR-Analysis)
+- [Goodreads Reading Project](https://github.com/croweigibson/Goodreads-Reading-Project)
 
