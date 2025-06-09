@@ -19,6 +19,7 @@ Data analyst with expertise in SQL, Python, and BI tools, specializing in turnin
 3. Python
 4. Power BI
 5. Tableau
+6. Web Scrapping
 
 
 
